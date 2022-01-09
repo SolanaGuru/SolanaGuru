@@ -116,15 +116,5 @@ I have developed many successful sites so far with mentioned skills.
   </a>
 </div>
 
-#<h2>Connect with me</h2>
 
-#- 💬 Telegram : [@etherguru](https://t.me/etherguru)
-#- 📝 Email : julio.frantz.dev@gmail.com
-
-#![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=juliofrantz&show_icons=true&theme=radical)
-
-
-
-
-#⭐️ From [juliofrantz](https://github.com/juliofrantz)
 
